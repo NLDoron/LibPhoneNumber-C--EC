@@ -1,6 +1,6 @@
-# LibPhoneNumber-CSharp-EC
+# libphonenumber-csharp-er
 
-Version of libphonenumber-csharp with external config files
+Version of libphonenumber-csharp with external resource files.
 
 The original libphonenumber-csharp project is avaibable [here](https://github.com/twcclegg/libphonenumber-csharp).
 
