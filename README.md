@@ -8,8 +8,6 @@ The original libphonenumber-csharp project is avaibable [here](https://github.co
 
 C# port of Google's [libphonenumber library](https://github.com/googlei18n/libphonenumber).
 
-  The code was rewritten from the Java source mostly unchanged, please refer to the original documentation for sample code and API documentation.
-
   The original Apache License 2.0 was preserved.
 
   See [this](https://github.com/twcclegg/libphonenumber-csharp/blob/master/csharp/README.txt "csharp/README.txt") for details about the port.
