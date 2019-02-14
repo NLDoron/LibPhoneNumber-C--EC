@@ -1,15 +1,8 @@
 # LibPhoneNumber-CSharp-EC
-Version of LibPhoneNumber-C# with external config files
 
-[![Build status](https://ci.appveyor.com/api/projects/status/76abbk0qveot0mbo/branch/master?svg=true)](https://ci.appveyor.com/project/twcclegg/libphonenumber-csharp/branch/master)
-[![codecov](https://codecov.io/gh/twcclegg/libphonenumber-csharp/branch/master/graph/badge.svg)](https://codecov.io/gh/twcclegg/libphonenumber-csharp)
+Version of libphonenumber-csharp with external config files
+The original libphonenumber-csharp project is avaibable [here](https://github.com/twcclegg/libphonenumber-csharp).
 
-# Overview
-
-# libphonenumber-csharp
-Original libphonenumber-csharp project is avaibable [here](https://github.com/twcclegg/libphonenumber-csharp).
-
-# From the original WIKI
 ## Conversion Notes
 
 C# port of Google's [libphonenumber library](https://github.com/googlei18n/libphonenumber).
