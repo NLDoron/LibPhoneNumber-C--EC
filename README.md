@@ -7,9 +7,7 @@ Version of LibPhoneNumber-C# with external config files
 # Overview
 
 # libphonenumber-csharp
-Clone of original C# port [here](https://bitbucket.org/pmezard/libphonenumber-csharp/wiki/Home).
-
-All I've ever done is pull updated metadata from Google's project.
+Original libphonenumber-csharp project is avaibable [here](https://github.com/twcclegg/libphonenumber-csharp).
 
 # From the original WIKI
 ## Conversion Notes
